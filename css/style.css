@@ -1,0 +1,43 @@
+body{
+	background-color: #008abd;
+	color: #ffffff;
+	font-family: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
+	text-align:center;
+}
+#conteudo{
+    width: 650px;
+    height: 650px;
+    margin-left: -325px;
+    margin-top: -325px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+#titulo{
+	color: #ffffff;
+	font-weight: bold;
+}
+#titulo1{
+	font-size: 200px;
+	margin-bottom: 22px;
+}
+#titulo2 {
+	font-size: 36px;
+}
+.verde{
+	color: #7CFC00;
+}
+.amarelo{
+	color: #ffff00;
+}
+.p1{
+	font-size: 25px;
+	font-weight: bold;
+	margin-top:100px;
+}
+a{
+	color: #ffffff;
+}
+#social{
+	margin-top:100px;
+}
